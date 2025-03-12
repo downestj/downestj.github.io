@@ -80,50 +80,45 @@
       </v-app>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
-    <script src="config.js"></script>
-    <script>
-      var vm = new Vue({
-        el: '#app',
-        vuetify: new Vuetify(),
-        data() {
-          return {
-            ...window.PorfolioConfig,
-            animatedTitle: '',
-            titleIndex: 0,
-            charIndex: 0,
-            isDeleting: false,
-            jobTitles: [
-              "Ethical Hacker",
-              "Cybersecurity Professional",
-              "Blockchain Enthusiast"
-            ]
-          };
-        },
-        mounted() {
-          this.typeEffect();
-        },
-        methods: {
-          typeEffect() {
-            let currentTitle = this.jobTitles[this.titleIndex];
-            if (this.isDeleting) {
-              this.animatedTitle = currentTitle.substring(0, this.charIndex--);
-            } else {
-              this.animatedTitle = currentTitle.substring(0, this.charIndex++);
-            }
-            let typingSpeed = this.isDeleting ? 50 : 100;
-            if (!this.isDeleting && this.charIndex === currentTitle.length) {
-              setTimeout(() => (this.isDeleting = true), 1000);
-            } else if (this.isDeleting && this.charIndex === 0) {
-              this.isDeleting = false;
-              this.titleIndex = (this.titleIndex + 1) % this.jobTitles.length;
-            }
-            setTimeout(this.typeEffect, typingSpeed);
-          }
+   <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+<script src="config.js"></script>
+<script>
+  var vm = new Vue({
+    el: '#app',
+    vuetify: new Vuetify(),
+    data() {
+      return {
+        ...window.PorfolioConfig, // Spread the data from config.js
+        animatedTitle: '',
+        titleIndex: 0,
+        charIndex: 0,
+        isDeleting: false
+      };
+    },
+    mounted() {
+      this.typeEffect();
+    },
+    methods: {
+      typeEffect() {
+        let currentTitle = this.jobTitles[this.titleIndex];
+        if (this.isDeleting) {
+          this.animatedTitle = currentTitle.substring(0, this.charIndex--);
+        } else {
+          this.animatedTitle = currentTitle.substring(0, this.charIndex++);
         }
-      });
-    </script>
-  </body>
+        let typingSpeed = this.isDeleting ? 50 : 100;
+        if (!this.isDeleting && this.charIndex === currentTitle.length) {
+          setTimeout(() => (this.isDeleting = true), 1000);
+        } else if (this.isDeleting && this.charIndex === 0) {
+          this.isDeleting = false;
+          this.titleIndex = (this.titleIndex + 1) % this.jobTitles.length;
+        }
+        setTimeout(this.typeEffect, typingSpeed);
+      }
+    }
+  });
+</script>
+
 
 
   <body>
