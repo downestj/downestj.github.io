@@ -33,6 +33,19 @@ window.PorfolioConfig = {
       description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
     }
   ],
+   Certifications: [
+    {
+      name: 'EC-Council Certified Ethical Hacker',
+      description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
+    },
+    {
+      name: 'Surfing',
+      description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
+    },
+    {
+      name: 'Rubick\'s Cube',
+      description: 'Laborum pariatur sint labore officia enim occaecat id.'
+    }
   hobbies: [
     {
       name: 'Rock Climbing',
@@ -48,21 +61,18 @@ window.PorfolioConfig = {
     }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
+    email: 'tjdownes6@gmail.com',
     mobileNo: '+639171234567',
     phoneNo: '+12 345 6789',
     links: [
       {
-        name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
+        
       },
       {
-        name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
+      
       },
       {
-        name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+       
       }
     ]
   }
