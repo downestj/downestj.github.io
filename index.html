@@ -104,12 +104,12 @@
               </v-card>
             </v-col>
           </section>
-           <section class="row mb-5" id="works">
+           <section class="row mb-5" id="education">
             <v-col cols="12" md="6">
               <h1 class="primary--text" data-aos="fade-up">/Education</h1>
             </v-col>
-            <v-col v-for="(work, index) in works" cols="12" :key="index">
-              <v-card hover="hover" height="100%" data-aos="fade-up" rel="noreferrer" :href="work.link" >
+            <v-col v-for="(education, index) in educationList" cols="12" :key="index">
+              <v-card hover="hover" height="100%" data-aos="fade-up" rel="noreferrer" :href="education.link" >
                 <v-card-text>
                   <h2 class="primary--text">>
                     {{education.name}}</h2>
