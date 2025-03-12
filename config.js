@@ -13,7 +13,9 @@ window.PorfolioConfig = {
   
   certifications: [
     { name: "Certified Ethical Hacker", description: "EC-Council CEH certification." },
-    { name: "Certified Blockchain Expert", description: "Blockchain technology and implementation." }
+    { name: "CompTIA Pentest+", description: "Blockchain technology and implementation." },
+    { name: "CompTIA Security+", description: "Blockchain technology and implementation." },
+    { name: "CompTIA Network+", description: "Blockchain technology and implementation." }
   ],
   contacts: {
     email: 'john.doe@gmail.com',
