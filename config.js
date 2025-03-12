@@ -6,6 +6,10 @@ window.PorfolioConfig = {
     { name: "Ethical Hacking", description: "Penetration testing and vulnerability analysis." },
     { name: "Blockchain", description: "Smart contracts and decentralized apps." }
   ],
+   education: [
+    { name: "University of Arizona", description: "Conducted security audits on blockchain networks.", link: "http://example.com" },
+    { name: "Western Michigan University", description: "Penetration testing for a financial application.", link: "http://example.com" }
+  ],
   works: [
     { name: "Security Audit", description: "Conducted security audits on blockchain networks.", link: "http://example.com" },
     { name: "PenTest Project", description: "Penetration testing for a financial application.", link: "http://example.com" }
