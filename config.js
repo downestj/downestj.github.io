@@ -10,10 +10,7 @@ window.PorfolioConfig = {
     { name: "University of Arizona", description: "Conducted security audits on blockchain networks.", link: "http://example.com" },
     { name: "Western Michigan University", description: "Penetration testing for a financial application.", link: "http://example.com" }
   ],
-  works: [
-    { name: "Security Audit", description: "Conducted security audits on blockchain networks.", link: "http://example.com" },
-    { name: "PenTest Project", description: "Penetration testing for a financial application.", link: "http://example.com" }
-  ],
+  
   certifications: [
     { name: "Certified Ethical Hacker", description: "EC-Council CEH certification." },
     { name: "Certified Blockchain Expert", description: "Blockchain technology and implementation." }
