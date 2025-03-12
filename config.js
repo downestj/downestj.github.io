@@ -12,17 +12,10 @@ window.PorfolioConfig = {
   ],
   
   certifications: [
-    { name: "Certified Ethical Hacker", description:"Apply ethical hacking techniques to assess and exploit vulnerabilities in a controlled environment.",
-      "Utilize industry-standard tools for network security testing and penetration assessments.",
-      "Ensure compliance with legal and ethical guidelines in penetration testing and vulnerability scanning."" },
-    { name: "CompTIA Pentest+", 
-     description:
-     
-    },
+    { name: "Certified Ethical Hacker", description: ""},
+    { name: "CompTIA Pentest+", description: ""},
     { name: "CompTIA Security+", description: "Blockchain technology and implementation." },
-    { name: "CompTIA Network+", description: "Demonstrate expertise in IP addressing, subnetting, routing, and network configuration.",
-      "Troubleshoot network issues and ensure optimal performance across network systems.",
-      "Apply network security practices and protocols for wireless networking environments."" }
+    { name: "CompTIA Network+", description: "" }
   ],
   contacts: {
     email: 'john.doe@gmail.com',
