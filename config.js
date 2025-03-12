@@ -46,19 +46,7 @@ window.PorfolioConfig = {
       name: 'Rubick\'s Cube',
       description: 'Laborum pariatur sint labore officia enim occaecat id.'
     }
-  hobbies: [
-    {
-      name: 'Rock Climbing',
-      description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
-    },
-    {
-      name: 'Surfing',
-      description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
-    },
-    {
-      name: 'Rubick\'s Cube',
-      description: 'Laborum pariatur sint labore officia enim occaecat id.'
-    }
+
   ],
   contacts: {
     email: 'tjdownes6@gmail.com',
