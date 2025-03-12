@@ -12,10 +12,10 @@ window.PorfolioConfig = {
   ],
   
   certifications: [
-    { name: "Certified Ethical Hacker", description: ""},
-    { name: "CompTIA Pentest+", description: ""},
+    { name: "Certified Ethical Hacker", description: "asdfadf"},
+    { name: "CompTIA Pentest+", description: "adsadf"},
     { name: "CompTIA Security+", description: "Blockchain technology and implementation." },
-    { name: "CompTIA Network+", description: "" }
+    { name: "CompTIA Network+", description: "asdfa" }
   ],
   contacts: {
     email: 'john.doe@gmail.com',
