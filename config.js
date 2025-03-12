@@ -1,11 +1,13 @@
 window.PorfolioConfig = {
   name: "TJ Downes",
+  jobDescription: "Ethical Hacker | Blockchain Enthusiast",
   jobTitles: [
     "Ethical Hacker",
     "Cybersecurity Professional",
     "Blockchain Enthusiast"
   ]
 };
+
 
   skills: [
     { name: "Ethical Hacking", description: "Penetration testing and vulnerability analysis." },
