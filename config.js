@@ -7,8 +7,8 @@ window.PorfolioConfig = {
     { name: "Blockchain", description: "Smart contracts and decentralized apps." }
   ],
    education: [
-    { name: "University of Arizona", description: "Masters of Science in Cybersecurity", link: "http://example.com" },
-    { name: "Western Michigan University", description: "BBA in Computer Information Systems.", link: "http://example.com" }
+    { name: "University of Arizona", description: "Masters of Science in Cybersecurity<br>3.95 GPA", link: "http://example.com" },
+    { name: "Western Michigan University", description: "BBA in Computer Information Systems<br>3.8 GPA", link: "http://example.com" }
   ],
   
   certifications: [
