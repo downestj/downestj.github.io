@@ -14,10 +14,10 @@ window.PorfolioConfig = {
     { name: "Western Michigan University", description: "BBA in Computer Information Systems<br>3.8 GPA", link: "http://example.com" }
   ],
   certifications: [
-    { name: "EC-Council Certified Ethical Hacker", description: "Apply ethical hacking techniques and tools to identify and resolve system vulnerabilities." },
-    { name: "CompTIA Pentest+", description: "Perform penetration testing and vulnerability assessments to secure networks and applications." },
-    { name: "CompTIA Security+", description: "Implement cybersecurity best practices, including risk management, cryptography, and network security." },
-    { name: "CompTIA Network+", description: " Install, troubleshoot, and configure network systems to ensure reliable connectivity and performance." }
+    { name: "EC-Council Certified Ethical Hacker", description: "" },
+    { name: "CompTIA Pentest+", description: "" },
+    { name: "CompTIA Security+", description: "" },
+    { name: "CompTIA Network+", description: "" }
   ],
   contacts: {
     email: 'mitdownes99@gmail.com',
