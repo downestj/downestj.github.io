@@ -1,7 +1,7 @@
 window.PorfolioConfig = {
   name: 'TJ Downes',
   jobTitle: 'Ethical Hacker | Cybersecurity Professional | Blockchain Enthusiast',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  jobDescription: "Hey, I'm TJ Downes. I am a graduate student at the University of Arizona studying Cybersecurity and work in the governement assuring applications are in compliance with NIST 800-53 and ISO 2700.",
   skills: [
     { name: "Cybersecurity and Risk Management", description: "Threat Analysis:  Identify, assess, and mitigate cybersecurity threats and vulnerabilities<br>Risk Analysis: Conduct risk evaluations and implement security controls to protect systems<br>Compliance and Governance: Ensure adherence to frameworks like NIST, ISO 27001, and CIS benchmarks." },
     { name: "Ethical Hacking and Penetration Testing", description: "Network Exploitation<br>Web Application Security<br>Post-Exploitation and Reporting" },
