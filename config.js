@@ -20,13 +20,9 @@ window.PorfolioConfig = {
     { name: "CompTIA Network+", description: " Install, troubleshoot, and configure network systems to ensure reliable connectivity and performance." }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'mitdownes99@gmail.com',
     links: [
-      { name: 'GitHub', link: 'https://github.com/jofftiquez' },
-      { name: 'Facebook', link: 'https://facebook.com/jofftiquez' },
-      { name: 'Twitter', link: 'https://twitter.com/jrtiquez' }
+      { name: 'GitHub', link: 'https://github.com/downestj' },
     ]
   }
 };
