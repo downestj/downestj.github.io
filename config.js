@@ -6,8 +6,8 @@ window.PorfolioConfig = {
     { name: "Cybersecurity and Risk Management", description: "Threat Analysis:  Identify, assess, and mitigate cybersecurity threats and vulnerabilities<br>Risk Analysis: Conduct risk evaluations and implement security controls to protect systems<br>Compliance and Governance: Ensure adherence to frameworks like NIST, ISO 27001, and CIS benchmarks." },
     { name: "Ethical Hacking and Penetration Testing", description: "Network Exploitation<br>Web Application Security<br>Post-Exploitation and Reporting" },
     { name: "Problem Solving", description: "Creative Solutions<br>Decision making under pressure" },
-    { name: "Cryptography", description: "Smart contracts and decentralized apps." },
-    { name: "Blockchain", description: "Smart contracts and decentralized apps." }
+    { name: "Cryptography", description: "Encryption Standards: Apply AES, RSA, ECC, and hashing algorithms for data security<br>Public Key Infrastructure (PKI): Managment of certificates and digital signatures" },
+    { name: "Blockchain", description: "Smart contract auditing <br>Consensus Security" }
   ],
   education: [
     { name: "University of Arizona", description: "Masters of Science in Cybersecurity<br>3.95 GPA", link: "http://example.com" },
