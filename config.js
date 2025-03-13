@@ -4,7 +4,7 @@ window.PorfolioConfig = {
   jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
   skills: [
     { name: "Cybersecurity and Risk Management", description: "Threat Analysis<br>Risk Analysis<br>Compliance and Governance" },
-    { name: "Ethical Hacking and Penetration Testing", description: "Smart contracts and decentralized apps." },
+    { name: "Ethical Hacking and Penetration Testing", description: "Network Exploitation<br>Web Application Security<br>Post-Exploitation and Reporting" },
     { name: "Problem Solving", description: "Smart contracts and decentralized apps." },
     { name: "Cryptography", description: "Smart contracts and decentralized apps." },
     { name: "Blockchain", description: "Smart contracts and decentralized apps." }
