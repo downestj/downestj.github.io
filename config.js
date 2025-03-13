@@ -3,7 +3,10 @@ window.PorfolioConfig = {
   jobTitle: 'Ethical Hacker | Cybersecurity Professional | Blockchain Enthusiast',
   jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
   skills: [
-    { name: "Ethical Hacking", description: "Penetration testing and vulnerability analysis." },
+    { name: "Cybersecurity and Risk Management", description: "Threat Analysis<br>Risk Analysis<br>Compliance and Governance" },
+    { name: "Ethical Hacking and Penetration Testing", description: "Smart contracts and decentralized apps." },
+    { name: "Problem Solving", description: "Smart contracts and decentralized apps." },
+    { name: "Cryptography", description: "Smart contracts and decentralized apps." },
     { name: "Blockchain", description: "Smart contracts and decentralized apps." }
   ],
   education: [
