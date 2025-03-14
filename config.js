@@ -2,10 +2,6 @@ window.PorfolioConfig = {
   name: 'TJ Downes',
   jobTitle: 'Ethical Hacker | Cybersecurity Professional | Blockchain Enthusiast',
   jobDescription: "Hey, I'm TJ Downes. I am a graduate student at the University of Arizona studying Cybersecurity. I currently work in the governement assuring applications are in compliance with NIST 800-53 and ISO 2700.",
-  education: [
-    { name: "Blockchain Development", description: "Alcehemy University 'Learn Solidity' Course" },
-    { name: "Penetration Testing", description: "Hack the Box Penetration Tester" }
-    ],
   skills: [
     { name: "Cybersecurity and Risk Management", description: "Threat Analysis:  Identify, assess, and mitigate cybersecurity threats and vulnerabilities<br>Risk Analysis: Conduct risk evaluations and implement security controls to protect systems<br>Compliance and Governance: Ensure adherence to frameworks like NIST, ISO 27001, and CIS benchmarks." },
     { name: "Ethical Hacking and Penetration Testing", description: "Network Exploitation<br>Web Application Security<br>Post-Exploitation and Reporting" },
@@ -23,6 +19,10 @@ window.PorfolioConfig = {
     { name: "CompTIA Security+", description: "November 2023-November 2026" },
     { name: "CompTIA Network+", description: "May 2024-May 2027" }
   ],
+    work: [
+    { name: "Blockchain Development", description: "Alcehemy University 'Learn Solidity' Course" },
+    { name: "Penetration Testing", description: "Hack the Box Penetration Tester" }
+    ],
   contacts: {
     email: 'mitdownes99@gmail.com',
     links: [
