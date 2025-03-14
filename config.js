@@ -20,7 +20,7 @@ window.PorfolioConfig = {
     { name: "CompTIA Network+", description: "May 2024-May 2027" }
   ],
     work: [
-    { name: "Blockchain Development", description: "Alcehemy University 'Learn Solidity' Course" },
+    { name: "Blockchain Development", description: "Alchemy University 'Learn Solidity' Course" },
     { name: "Penetration Testing", description: "Hack the Box Penetration Testing Specialist<br>Hack the Box Season 7 VM Challenges" }
     ],
   contacts: {
