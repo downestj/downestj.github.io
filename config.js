@@ -24,7 +24,7 @@ window.PorfolioConfig = {
     { name: "Penetration Testing", description: "Hack the Box Penetration Testing Specialist<br>Hack the Box Season 7 VM Challenges" }
   ],
    contacts: {
-    email: 'john.doe@gmail.com',
+    email: 'tjdownes6@gmail.com',
     mobileNo: '+639171234567',
     phoneNo: '+12 345 6789',
     links: [
