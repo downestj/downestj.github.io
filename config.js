@@ -28,6 +28,8 @@ window.PorfolioConfig = {
     links: [
       { name: 'Linkedin', link: 'https://www.linkedin.com/in/timothy-downes/' },
       { name: 'GitHub', link: 'https://github.com/downestj' }
-    ]
+      ],
+          
   }
+  
 };
