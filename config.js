@@ -21,7 +21,7 @@ window.PorfolioConfig = {
   ],
     work: [
     { name: "Blockchain Development", description: "Alcehemy University 'Learn Solidity' Course" },
-    { name: "Penetration Testing", description: "Hack the Box Penetration Tester" }
+    { name: "Penetration Testing", description: "Hack the Box Penetration Testing Specialist" }
     ],
   contacts: {
     email: 'mitdownes99@gmail.com',
