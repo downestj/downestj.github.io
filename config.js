@@ -24,22 +24,17 @@ window.PorfolioConfig = {
     { name: "Penetration Testing", description: "Hack the Box Penetration Testing Specialist<br>Hack the Box Season 7 VM Challenges" }
   ],
    contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'mitdownes99@gmail.com',
     links: [
       {
         name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
+        link: 'https://github.com/downestj'
       },
       {
-        name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
+        name: 'Linkedin',
+        link: 'https://www.linkedin.com/in/timothy-downes/'
       },
-      {
-        name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
-      }
+    
     ]
   }
 };
