@@ -14,10 +14,10 @@ window.PorfolioConfig = {
     { name: "Western Michigan University", description: "BBA in Computer Information Systems<br>3.8 GPA", link: "http://example.com" }
   ],
   certifications: [
-    { name: "EC-Council Certified Ethical Hacker", description: "" },
-    { name: "CompTIA Pentest+", description: "" },
-    { name: "CompTIA Security+", description: "" },
-    { name: "CompTIA Network+", description: "" }
+    { name: "EC-Council Certified Ethical Hacker", description: "January 2025-January 2028" },
+    { name: "CompTIA Pentest+", description: "Novermber 2024-November 2028" },
+    { name: "CompTIA Security+", description: "November 2023-November 2026" },
+    { name: "CompTIA Network+", description: "May 2024-May 2027" }
   ],
   contacts: {
     email: 'mitdownes99@gmail.com',
