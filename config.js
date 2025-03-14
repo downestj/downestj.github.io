@@ -22,6 +22,7 @@ window.PorfolioConfig = {
   contacts: {
     email: 'mitdownes99@gmail.com',
     links: [
+      { name: 'Linkedin', link: '{ name: 'www.linkedin.com/in/timothy-downes' },
       { name: 'GitHub', link: 'https://github.com/downestj' },
     ]
   }
