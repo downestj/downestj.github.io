@@ -28,15 +28,7 @@ window.PorfolioConfig = {
     links: [
       {
         name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
-      },
-      {
-        name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
-      },
-      {
-        name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+        link: 'https://github.com/downestj'
       }
     ]
   }
