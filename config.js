@@ -33,7 +33,7 @@ window.PorfolioConfig = {
       {
         name: 'Linkedin',
         link: 'https://www.linkedin.com/in/timothy-downes/'
-      },
+      }
     
     ]
   }
