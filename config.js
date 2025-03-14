@@ -15,14 +15,14 @@ window.PorfolioConfig = {
   ],
   certifications: [
     { name: "EC-Council Certified Ethical Hacker", description: "January 2025-January 2028" },
-    { name: "CompTIA Pentest+", description: "Novermber 2024-November 2028" },
+    { name: "CompTIA Pentest+", description: "November 2024-November 2028" },
     { name: "CompTIA Security+", description: "November 2023-November 2026" },
     { name: "CompTIA Network+", description: "May 2024-May 2027" }
   ],
   contacts: {
     email: 'mitdownes99@gmail.com',
     links: [
-      { name: 'Linkedin', link: '{ name: 'www.linkedin.com/in/timothy-downes' },
+      { name: 'Linkedin', link: '{ name: "www.linkedin.com/in/timothy-downes" },
       { name: 'GitHub', link: 'https://github.com/downestj' },
     ]
   }
